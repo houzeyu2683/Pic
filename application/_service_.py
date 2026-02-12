@@ -67,6 +67,6 @@ class Service:
         return(response)
     
     __call__ = getResponse
-    head = 'https://github.com/houzeyu2683/Ae/releases/download'
+    head = 'https://github.com/houzeyu2683/Pic/releases/download'
     root = '.hub/model/'
     pass
